@@ -1,9 +1,9 @@
 
-<p align="center"># Face Mask Detection</p>
+<h1 align="center">Face Mask Detection</h1>
 
-
-![Decentralized Certification Demo](http://drive.google.com/uc?export=view&id=1ZVlmUUfuWfD_6AwCcterhr_oSed2nIcR)
-
+<p align="center">
+<img src="http://drive.google.com/uc?export=view&id=1ZVlmUUfuWfD_6AwCcterhr_oSed2nIcR">
+</p>
 
 The Face Mask Detection project is a computer vision application designed to identify and classify whether individuals in images are wearing face masks or not. Leveraging deep learning techniques, the system utilizes a pre-trained model to analyze facial features and determine the presence or absence of a face mask.
 
@@ -14,21 +14,21 @@ This project finds practical applications in public spaces, healthcare facilitie
 ## Model Testing
 ### Model Testing on NIST Digitally Applied Mask Shapes
 
-    
-![DHome](http://drive.google.com/uc?export=view&id=1ZjLr4IbuOx2_NXyROkoliLgXn9IOL0x_)
+<p align="center">    
+<img src="http://drive.google.com/uc?export=view&id=1ZjLr4IbuOx2_NXyROkoliLgXn9IOL0x_">
 
-![DHome](http://drive.google.com/uc?export=view&id=1wHdSaTa_6adTWyjJAYQQJo0IXGELYYhI)
+<img src="http://drive.google.com/uc?export=view&id=1wHdSaTa_6adTWyjJAYQQJo0IXGELYYhI">
 
-![DHome](http://drive.google.com/uc?export=view&id=1e-GQmTJK1aC_ySLCcATd7t7nx0SqT6VJ)
+<img src="http://drive.google.com/uc?export=view&id=1e-GQmTJK1aC_ySLCcATd7t7nx0SqT6VJ">
 
-![DHome](http://drive.google.com/uc?export=view&id=1sDj9w09UvKW5GMSp6nwrj9K8VOH_NrYg)
-
-
-![DHome](http://drive.google.com/uc?export=view&id=1EXHcu3q_fe0fi-5QwMRmY61Ao0oifPWc)
+<img src="http://drive.google.com/uc?export=view&id=1sDj9w09UvKW5GMSp6nwrj9K8VOH_NrYg">
 
 
-![DHome](http://drive.google.com/uc?export=view&id=1c5VZ1XN5kTqY_xvjrwXpWsgCvyawVktC)
+<img src="http://drive.google.com/uc?export=view&id=1EXHcu3q_fe0fi-5QwMRmY61Ao0oifPWc">
 
+
+<img src="http://drive.google.com/uc?export=view&id=1c5VZ1XN5kTqY_xvjrwXpWsgCvyawVktC">
+</p>
 ## Features
 
 - **Real-time Detection:** The system offers real-time face mask detection, enabling quick and efficient monitoring of mask compliance in various settings.
@@ -75,8 +75,8 @@ Before you begin with the Face Mask Detection project, ensure that you have the 
 
 1. **Python:** Download and install Python from [python.org](https://www.python.org/downloads/).
 2. **Dependencies:** Install required Python packages by running: `pip install`.
-3. **Dataset:** Download the Face Mask Detection dataset [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) and organize it in the `data` directory.
-4. **Pre-trained Models (Optional):** If you don't plan to train your own models, download trained model for face mask detection .
+3. **Dataset:** Download the Face Mask Detection dataset [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) and organize it in the current working directory.
+4. **Pre-trained Models (Optional):** If you don't plan to train your own models, download pre-trained model for face mask detection .
 
 ## Setup Steps
 
@@ -84,11 +84,11 @@ Before you begin with the Face Mask Detection project, ensure that you have the 
 
 2. **Install Dependencies:** `pip install`.
 
-3. **Download the Dataset:** Download and organize the dataset in the `Face Mask Dataset` directory.
+3. **Download the Dataset:** Download and organize the dataset in the current working directory.
 
 4. **Obtain Pre-trained Models (Optional):** Download and place pre-trained model.
 
-5. **Execute the Jupyter Notebook:** Execute the script with `Face Mask Detection VGG16.ipynb` for real-time face mask detection.
+5. **Execute the Jupyter Notebook:** Execute the script with `Face Mask Detection.ipynb` for real-time face mask detection.
 
 
 
