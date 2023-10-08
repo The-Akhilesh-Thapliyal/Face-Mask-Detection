@@ -54,7 +54,9 @@ This project finds practical applications in public spaces, healthcare facilitie
 
 - **Integration Capabilities:** Designed with integration in mind, enabling seamless incorporation into existing security systems, surveillance setups, or IoT devices.
 
-- **Data Logging:** Provides the capability to log and store data over time, allowing for analysis of trends and compliance patterns for informed decision-making.## Project Structure
+- **Data Logging:** Provides the capability to log and store data over time, allowing for analysis of trends and compliance patterns for informed decision-making.
+-
+- ## Project Structure
 
 
 - **Dataset:** Contains training and testing datasets. Subdirectories include images of individuals with and without masks. [Face Mask Detection ~12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset)
@@ -64,13 +66,6 @@ This project finds practical applications in public spaces, healthcare facilitie
 - **Face Mask Detection VGG16.ipynb:** Contains source code for various functionalities of the project:
 
 - **README.md:** Project documentation providing an overview, instructions, and other relevant information.## Prerequisites
-
-Before you begin with the Face Mask Detection project, ensure that you have the following prerequisites installed and set up:
-
-1. **Python:** The project is developed using Python programming language. Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-
-2. **Dependencies:** Install the required Python packages
-# Face Mask Detection Project Setup
 
 ## Prerequisites
 
