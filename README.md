@@ -6,7 +6,7 @@
 ="http://drive.google.com/uc?export=view&id=1ZVlmUUfuWfD_6AwCcterhr_oSed2nIcR">
 </p>
 
-The Face Mask Detection is a computer vision project designed to identify and classify whether individuals in images are wearing face masks or not. Leveraging deep learning techniques, the system utilizes a pre-trained model to analyze facial features and determine the presence or absence of a face mask.
+The Face Mask Detection is a computer vision project designed to identify and classify whether individuals in images are wearing face masks or not. Leveraging deep learning techniques, the project trains a deep learning model and utilizes it to analyze facial features and determine the presence or absence of a face mask.
 
 This project finds practical applications in public spaces, healthcare facilities, and various environments where adherence to face mask guidelines is crucial. It contributes to the ongoing efforts to enhance safety measures by automating the monitoring of mask compliance, aiding in the overall management of public health and safety.
 
